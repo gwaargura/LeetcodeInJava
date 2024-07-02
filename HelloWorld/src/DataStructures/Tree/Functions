@@ -1,0 +1,15 @@
+1. inOrder
+2. preOrder
+3. postOrder
+4. isHeap
+5. search
+6. getHeight
+7. getLevel
+8. breadthFirstSearch
+9. insert
+10. countNode
+11. getMin
+12. isAVL
+13. cost
+14. deleteByMerge
+15. deleteByCopying

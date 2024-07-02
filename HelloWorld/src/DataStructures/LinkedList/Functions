@@ -1,0 +1,14 @@
+1. emptyList
+2. clear
+3. insertAtHead
+4. insertAtTail
+5. countNode
+6. getIndex
+7. insertAtIndex
+8. deleteAtHead
+9. deleteAtTail
+10. deleteAtIndex
+11. traverse
+12. printList
+13. getMax
+14. insertionSort ---> NOT DONE
